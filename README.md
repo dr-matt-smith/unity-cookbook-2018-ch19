@@ -7,3 +7,4 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch19-03-data-provider
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch19-04-health-unit-tested
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch19-05-play-mode-test
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch19-06-health-bar-playmode-test
